@@ -4,7 +4,7 @@ A responsive MERN stack e-commerce application called <b>NIKHIL</b> which will h
 
 ## Live Demo
 
-<a href='https://chirag.cyclic.app/' target="_blank">CHIRAG</a>
+<a href='https://project-nikhil.onrender.com/' target="_blank">NIKHIL</a>
 
 ## Features
 
