@@ -11,7 +11,7 @@ const ContactUsForm = () => {
     e.preventDefault();
 
     try {
-      await axios.post(`https://server-6d05.onrender.com/api/contact/`, {
+      await axios.post(`/api/contact/`, {
         name,
         email,
         description,
